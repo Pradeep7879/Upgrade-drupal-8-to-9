@@ -34,7 +34,9 @@ Step 2:-  Update one by one contrib and custom module according to Drupal 9 and 
         }
         
 8.  Replace in sites/default/settings.php file:-
-    From        
+
+    From   
+    
             $config_directories['sync']
     To
            
