@@ -48,7 +48,7 @@ Step 2:-  Update one by one contrib and custom module according to Drupal 9 and 
 **Thanks you are upgrading from Drupal 8 to Drupal 9**
 
 
-#####################################################################
+#
 
 **Upgrade-drupal-8-minor-to-major-version**
 
